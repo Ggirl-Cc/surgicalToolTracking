@@ -1,0 +1,5 @@
+train: C:/Users/satyano/surgical-tool-tracking/dataset/train/images
+val: C:/Users/satyano/surgical-tool-tracking/dataset/val/images
+
+nc: 2
+names: ['grasper', 'lhook']
