@@ -1,0 +1,5 @@
+train: C:/Users/satyano/surgical-tool-tracking/dataset_v2/train/images
+val: C:/Users/satyano/surgical-tool-tracking/dataset_v2/val/images
+
+nc: 7
+names: ['grasper', 'bipolar', 'hook', 'scissors', 'clipper', 'irrigator', 'specimen-bag']
