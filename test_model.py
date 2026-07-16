@@ -15,9 +15,9 @@ print(f"Testing on: {test_image}")
 results = model(test_image)
 
 # Save the annotated result
-results[0].save(filename="my_first_detection.png")
+results[0].save(filename="my_second_detection.png")
 
-print("Saved as my_first_detection.png - go open it!")
+print("Saved as my_second_detection.png - go open it!")
 
 # Also print what it found
 for box in results[0].boxes:
