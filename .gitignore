@@ -8,3 +8,4 @@ download_cholectrack20.py
 dataset_v2/
 demos/
 runs/
+occlusion_eval/

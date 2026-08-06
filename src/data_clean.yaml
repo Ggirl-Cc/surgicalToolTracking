@@ -1,0 +1,5 @@
+train: C:/Users/satyano/surgical-tool-tracking/occlusion_eval/clean/images
+val: C:/Users/satyano/surgical-tool-tracking/occlusion_eval/clean/images
+
+nc: 7
+names: ['grasper', 'bipolar', 'hook', 'scissors', 'clipper', 'irrigator', 'specimen-bag']
