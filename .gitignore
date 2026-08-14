@@ -4,8 +4,7 @@ __pycache__/
 .DS_Store
 data/
 dataset/
-download_cholectrack20.py
 dataset_v2/
-demos/
-runs/
+detect/runs/
 occlusion_eval/
+synapse_config.py
